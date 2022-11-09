@@ -83,7 +83,7 @@ function ExperienceCard({}: Props) {
                 8/8/2022 - 10/31/2022
             </p>
             <ul className="list-disc space-y-4 ml-5 text-lg">
-                <li>Summary points</li>
+                <li>Full-stack software engineering 420+ hour program focused on product development fundamentals, object-oriented programming, MVC frameworks, data modeling, and team collaboration strategies.</li>
 
             </ul>
         </div>
