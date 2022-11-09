@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { readBuilderProgram } from 'typescript'
+import { GetStaticProps, NextPage } from "next";
 import About from '../components/About'
 import ContactMe from '../components/ContactMe'
 import Header from '../components/Header'
@@ -28,7 +29,7 @@ export default function Home() {
       
       {/* Experience */}
       <section id="experience" className="snap-center">
-        <WorkExperience />
+        <WorkExperience/>
       </section>
       
       {/* Skills */}
@@ -45,6 +46,17 @@ export default function Home() {
       <section id="contact" className="snap-start">
         <ContactMe />
       </section>
+
+      {/* <Link href='#hero'>
+        <footer className="sticky bottom-5 w-full cursor-pointer">
+          <div className="flex items-center justify-center">
+            <img
+            className='h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer'
+            src='' alt='' />
+          </div>
+        </footer>
+
+      </Link> */}
 
     </div>
   )
