@@ -5,7 +5,7 @@ type Props = {}
 
 function ExperienceCard({}: Props) {
   return (
-    <article id="shrink" className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[600px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-70 cursor-pointer transition-opacity duration-200 overflow-hidden mt-20">
+    <article id="shrink" className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[600px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-80 cursor-pointer transition-opacity duration-200 overflow-hidden mt-20">
         <motion.img
         initial={{
             y: -100,
@@ -60,7 +60,7 @@ function ExperienceCard({}: Props) {
                 />
                 <img
                 className="h-10 w-10 rounded-full"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
                 alt=""
                 />
                 <img
@@ -87,8 +87,13 @@ function ExperienceCard({}: Props) {
 
             </ul>
         </div>
+        
 
     </article>
+
+    
+
+    
   )
 }
 

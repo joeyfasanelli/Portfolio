@@ -1,6 +1,5 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import Skill from './Skill'
 
 type Props = {}
 
@@ -15,7 +14,32 @@ function Skills({}: Props) {
 
 
         <div className="grid grid-cols-4 gap-5">
-        <img
+                <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+                  alt=""
+                  />
+                  <img
+                  className="h-20 w-20"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+                  alt=""
+                  />
+                <img
                 className="h-20 w-20"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
                 alt=""
@@ -47,7 +71,7 @@ function Skills({}: Props) {
                 />
                 <img
                 className="h-20 w-20 "
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
                 alt=""
                 />
                 <img
@@ -68,10 +92,6 @@ function Skills({}: Props) {
                 <img
                 className="h-20 w-20 "
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-                />
-                <img
-                className="h-20 w-20 "
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
                 />
         </div>
     </motion.div>
