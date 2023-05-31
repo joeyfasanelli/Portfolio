@@ -19,7 +19,7 @@ function Projects({}: Props) {
                     <a href="https://joeyfasanelli.github.io/YourDailyZen/" target="_blank">
                     <img
                     className="rounded-md"
-                    src="https://i.imgur.com/owHCRC2.png"
+                    src="https://i.imgur.com/XTmtLKV.png"
                     alt=""
                     />
                     </a>
