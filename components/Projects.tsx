@@ -33,7 +33,7 @@ function Projects({}: Props) {
                     A quote generator for mindfulness and inspiration.                    
                     </p>
                     <br></br>
-                    <a href="https://github.com/joeyfasanelli/YourDailyZen" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                    <a href="https://your-daily-zen.vercel.app/" className="text-[#F7AB0A] flex justify-center">GitHub</a>
 
                 </div>
             </div>
