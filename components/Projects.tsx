@@ -16,7 +16,7 @@ function Projects({}: Props) {
 
         <div className="relative w-full flex snap-x snap-mandatory justify-evenly z-20">
                 <div className="w-[600px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
-                    <a href="https://joeyfasanelli.github.io/YourDailyZen/" target="_blank">
+                    <a href="https://your-daily-zen.vercel.app/" target="_blank">
                     <img
                     className="rounded-md"
                     src="https://i.imgur.com/XTmtLKV.png"
@@ -33,8 +33,28 @@ function Projects({}: Props) {
                     A quote generator for mindfulness and inspiration.                    
                     </p>
                     <br></br>
-                    <a href="https://your-daily-zen.vercel.app/" className="text-[#F7AB0A] flex justify-center">GitHub</a>
-
+                    <a href="https://github.com/joeyfasanelli/YourDailyZen" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                </div>
+            </div>
+                <div className="w-[600px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
+                    <a href="https://joey-fasanelli-bank-site.vercel.app/" target="_blank">
+                    <img
+                    className="rounded-md"
+                    src="https://i.imgur.com/dTa0V1O.png"
+                    alt=""
+                    />
+                    </a>
+                <div>
+                    <br></br>
+                    <h4 className="text-3xl font-semi-bold text-center">
+                        HooBank (Banking Website Clone)
+                    </h4>
+                    <br></br>
+                    <p className="text-lg text-center">
+                    A next-generation banking app.                    
+                    </p>
+                    <br></br>
+                    <a href="https://github.com/joeyfasanelli/HooBank" className="text-[#F7AB0A] flex justify-center">GitHub</a>
                 </div>
             </div>
         </div>
