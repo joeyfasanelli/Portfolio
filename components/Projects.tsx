@@ -19,7 +19,7 @@ function Projects({}: Props) {
                     <a href="https://your-daily-zen.vercel.app/" target="_blank">
                     <img
                     className="rounded-md"
-                    src="https://i.imgur.com/XTmtLKV.png"
+                    src="https://i.imgur.com/fa9cbmN.png"
                     alt=""
                     />
                     </a>
