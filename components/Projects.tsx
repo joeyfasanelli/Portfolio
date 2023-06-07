@@ -47,7 +47,7 @@ function Projects({}: Props) {
                 <div>
                     <br></br>
                     <h4 className="text-3xl font-semi-bold text-center">
-                        HooBank (Banking Website Clone)
+                        HooBank (Website Clone)
                     </h4>
                     <br></br>
                     <p className="text-lg text-center">
