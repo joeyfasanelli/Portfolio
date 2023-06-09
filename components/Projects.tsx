@@ -23,19 +23,42 @@ function Projects({}: Props) {
                     alt=""
                     />
                     </a>
-                <div>
-                    <br></br>
-                    <h4 className="text-3xl font-semi-bold text-center">
-                        YourDailyZen
-                    </h4>
-                    <br></br>
-                    <p className="text-lg text-center">
-                    A quote generator for mindfulness and inspiration.                    
-                    </p>
-                    <br></br>
-                    <a href="https://github.com/joeyfasanelli/YourDailyZen" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                        <div>
+                            <br></br>
+                            <h4 className="text-3xl font-semi-bold text-center">
+                                YourDailyZen
+                            </h4>
+                            <br></br>
+                            <p className="text-lg text-center">
+                            A quote generator for mindfulness and inspiration.                    
+                            </p>
+                            <br></br>
+                            <a href="https://github.com/joeyfasanelli/YourDailyZen" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                        </div>
                 </div>
-            </div>
+
+                <div className="w-[600px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
+                    <a href="https://film-slate.vercel.app/" target="_blank">
+                    <img
+                    className="rounded-md"
+                    src="https://i.imgur.com/LkV5cfk.jpg"
+                    alt=""
+                    />
+                    </a>
+                        <div>
+                            <br></br>
+                            <h4 className="text-3xl font-semi-bold text-center">
+                                FilmSlate
+                            </h4>
+                            <br></br>
+                            <p className="text-lg text-center">
+                            Discover films that inspire.                    
+                            </p>
+                            <br></br>
+                            <a href="https://github.com/joeyfasanelli/Film-Slate" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                        </div>
+                </div>
+
                 <div className="w-[600px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
                     <a href="https://joey-fasanelli-bank-site.vercel.app/" target="_blank">
                     <img
@@ -44,19 +67,19 @@ function Projects({}: Props) {
                     alt=""
                     />
                     </a>
-                <div>
-                    <br></br>
-                    <h4 className="text-3xl font-semi-bold text-center">
-                        HooBank (Website Clone)
-                    </h4>
-                    <br></br>
-                    <p className="text-lg text-center">
-                    A next-generation banking app.                    
-                    </p>
-                    <br></br>
-                    <a href="https://github.com/joeyfasanelli/HooBank" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                        <div>
+                            <br></br>
+                            <h4 className="text-3xl font-semi-bold text-center">
+                                HooBank (Website Clone)
+                            </h4>
+                            <br></br>
+                            <p className="text-lg text-center">
+                            A next-generation banking app.                    
+                            </p>
+                            <br></br>
+                            <a href="https://github.com/joeyfasanelli/HooBank" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                        </div>
                 </div>
-            </div>
         </div>
 
         <div className="w-full absolute top-[30%] bg-[#F7AB0A]/10 left-0 h-[400px] -skew-y-12">
