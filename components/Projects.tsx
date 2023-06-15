@@ -41,7 +41,7 @@ function Projects({}: Props) {
                     <a href="https://film-slate.vercel.app/" target="_blank">
                     <img
                     className="rounded-md"
-                    src="https://i.imgur.com/LkV5cfk.jpg"
+                    src="https://i.imgur.com/lXhJhiI.jpg"
                     alt=""
                     />
                     </a>
