@@ -5,7 +5,7 @@ type Props = {}
 
 function ExperienceCardTwo({}: Props) {
     return (
-      <article id="shrink" className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[600px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-80 cursor-pointer transition-opacity duration-200 overflow-hidden mt-20">
+      <article id="shrink" className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[530px] md:w-[600px] xl:w-[600px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-80 cursor-pointer transition-opacity duration-200 overflow-hidden mt-20">
           <motion.img
           initial={{
               y: -100,
@@ -19,7 +19,7 @@ function ExperienceCardTwo({}: Props) {
           alt=""
           />
   
-          <div className="px-0 md:px-10">
+          <div className="p-5 h-[100%]">
               <h4 className="text-4xl font-light">
                   Web Applications Engineer II
               </h4>
@@ -81,7 +81,6 @@ function ExperienceCardTwo({}: Props) {
                   <li>Maintain web pages on a regular basis according to College specifications based on requests.</li>
                   <li>Migrate and refactor code to adapt with new implementations and processes.</li> 
                   <li>Build new web pages utilizing MVC architecture and update as needed.</li> 
-                  <li>Utilize documentation/external resources to solve complex problems and write efficient code.</li>
               </ul>
           </div>
           
