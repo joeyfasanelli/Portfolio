@@ -15,7 +15,7 @@ function Projects({}: Props) {
         <h3 className="absolute top-24 uppercase text-gray-500 tracking-[20px] text-2xl">Projects</h3>
 
         <div className="relative w-full flex justify-evenly z-20 snap-mandatory snap-x">
-            <div className="overflow-x-scroll flex snap-mandatory snap-x">
+            <div className="flex snap-mandatory snap-x">
                 <div className="w-[500px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
                     <a href="https://your-daily-zen.vercel.app/" target="_blank">
                     <img
