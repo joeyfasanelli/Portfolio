@@ -31,12 +31,12 @@ function Skills({}: Props) {
                   />
                   <img
                   className="h-20 w-20"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
                   alt=""
                   />
                   <img
                   className="h-20 w-20"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
                   alt=""
                   />
                 <img
@@ -66,7 +66,7 @@ function Skills({}: Props) {
                 />
                 <img
                 className="h-20 w-20 "
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
                 alt=""
                 />
                 <img
@@ -86,7 +86,7 @@ function Skills({}: Props) {
                 />
                 <img
                 className="h-20 w-20 "
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
                 alt=""
                 />
                 <img

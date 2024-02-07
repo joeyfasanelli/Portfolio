@@ -45,12 +45,12 @@ function ExperienceCardTwo({}: Props) {
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
                   alt=""
                   />
                   <img

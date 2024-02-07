@@ -55,7 +55,7 @@ function ExperienceCard({}: Props) {
                 />
                 <img
                 className="h-10 w-10 rounded-full"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
                 alt=""
                 />
                 <img
@@ -75,7 +75,7 @@ function ExperienceCard({}: Props) {
                 />
                 <img
                 className="h-10 w-10 rounded-full"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
                 alt=""
                 />
             </div>
