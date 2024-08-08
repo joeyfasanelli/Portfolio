@@ -15,72 +15,73 @@ function ExperienceCardThree({}: Props) {
           transition={{ duration: 1.2 }}
           viewport={{ once: true }}
           className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
-          src="https://i.imgur.com/CM8qN07.jpg"
+          src="https://i.imgur.com/wHskhzd.png"
           alt=""
           />
   
           <div className="p-5 h-[100%]">
               <h4 className="text-4xl font-light">
-                  Web Applications Engineer II
+                  Software Engineer
               </h4>
               <p className="font-bold text-2xl mt-1">
-                  Florida SouthWestern State College
+                  Bulkitrade
               </p>
               <div className="flex space-x-2 my-2">
                   
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
                   alt=""
                   />
                   <img
                   className="h-10 w-10 rounded-full"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
                   alt=""
                   />
               </div>
               <p className="uppercase py-5 text-gray-300">
-                  12/20/2022 - Present
+                  Jan. 2024 - Present
               </p>
               <ul className="list-disc space-y-4 ml-5 text-lg">
-                  <li>Maintain web pages on a regular basis according to College specifications based on requests.</li>
-                  <li>Migrate and refactor code to adapt with new implementations and processes.</li> 
-                  <li>Build new web pages utilizing MVC architecture and update as needed.</li> 
+                  <li>Design and develop new front-end features for customer-facing webpages utilizing HTML/CSS, Angular 16, JavaScript and Node.</li>
+                  <li>Maintain existing frontend/backend code base and conduct debugging sessions with the team.</li> 
+                  <li>Develop and maintain backend server applications using Express, ensuring robust and efficient performance for web services.</li>
+                  <li>Setup CI/CD pipeline to avoid user-error & streamline deployment, reducing deployment time by ~50% and minimizing user-error instances.</li>
               </ul>
           </div>
       </article>
