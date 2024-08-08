@@ -20,6 +20,7 @@ function WorkExperience({}: Props) {
         <div className="absolute w-full flex justify-center space-x-5 p-10 mt-2 snap-x snap-mandatory">
             {/* <ExperienceCard/> */}
             <ExperienceCardTwo/>
+            <ExperienceCardThree/>
              
         </div>
     </motion.div>
