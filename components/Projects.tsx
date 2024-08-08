@@ -61,7 +61,7 @@ function Projects({}: Props) {
                 </div>
 
                 <div className="w-[500px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
-                    <a href="https://joey-fasanelli-bank-site.vercel.app/" target="_blank">
+                    <a href="https://github.com/joeyfasanelli/Angry-Birds-Dupe" target="_blank">
                     <img
                     className="rounded-md"
                     src="https://i.imgur.com/ZnmGcWr.jpg"
