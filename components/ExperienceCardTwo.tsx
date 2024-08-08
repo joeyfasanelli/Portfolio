@@ -83,7 +83,22 @@ function ExperienceCardTwo({}: Props) {
                   <li>Build new web pages utilizing MVC architecture and update as needed.</li> 
               </ul>
           </div>
-           <div className="p-5 h-[100%]">
+      </article>
+     <article id="shrink" className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[530px] md:w-[600px] xl:w-[600px] snap-center bg-[#292929] p-10 hover:opacity-100 opacity-80 cursor-pointer transition-opacity duration-200 overflow-hidden mt-20">
+          <motion.img
+          initial={{
+              y: -100,
+              opacity: 0,
+          }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1.2 }}
+          viewport={{ once: true }}
+          className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
+          src="https://i.imgur.com/CM8qN07.jpg"
+          alt=""
+          />
+  
+          <div className="p-5 h-[100%]">
               <h4 className="text-4xl font-light">
                   Web Applications Engineer II
               </h4>
@@ -147,8 +162,6 @@ function ExperienceCardTwo({}: Props) {
                   <li>Build new web pages utilizing MVC architecture and update as needed.</li> 
               </ul>
           </div>
-          
-  
       </article>
   
       
