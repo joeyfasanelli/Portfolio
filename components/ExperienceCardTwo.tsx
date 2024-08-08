@@ -21,7 +21,7 @@ function ExperienceCardTwo({}: Props) {
   
           <div className="p-5 h-[100%]">
               <h4 className="text-4xl font-light">
-                  Web Applications Engineer II
+                  Web Applications Engineer
               </h4>
               <p className="font-bold text-2xl mt-1">
                   Florida SouthWestern State College
@@ -75,12 +75,13 @@ function ExperienceCardTwo({}: Props) {
                   />
               </div>
               <p className="uppercase py-5 text-gray-300">
-                  12/20/2022 - Present
+                  Dec. 2022 - Jan. 2024
               </p>
               <ul className="list-disc space-y-4 ml-5 text-lg">
-                  <li>Maintain web pages on a regular basis according to College specifications based on requests.</li>
-                  <li>Migrate and refactor code to adapt with new implementations and processes.</li> 
-                  <li>Build new web pages utilizing MVC architecture and update as needed.</li> 
+                  <li>Maintain web pages on a regular basis, adhering to college specifications, resulting in a 98% satisfaction rate from stakeholders.</li>
+                  <li>Migrate and refactor code to adapt with new implementations and processes, resulting in a significant decrease in code maintenance time.</li> 
+                  <li>Develop new web pages using MVC architecture and utilize web development best practices.</li>
+                  <li>Demonstrate problem-solving skills by effectively utilizing documentation and external resources to resolve complex issues, resulting in a ~70% reduction in turnaround time for issue resolution.</li>
               </ul>
           </div>
       </article>
