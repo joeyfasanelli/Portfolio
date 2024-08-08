@@ -64,21 +64,21 @@ function Projects({}: Props) {
                     <a href="https://joey-fasanelli-bank-site.vercel.app/" target="_blank">
                     <img
                     className="rounded-md"
-                    src="https://i.imgur.com/dTa0V1O.png"
+                    src="https://i.imgur.com/ZnmGcWr.jpg"
                     alt=""
                     />
                     </a>
                         <div>
                             <br></br>
                             <h4 className="text-3xl font-semi-bold text-center">
-                                HooBank (Website Clone)
+                                Angry Birds Clone
                             </h4>
                             <br></br>
                             <p className="text-lg text-center">
-                            A next-generation banking app.                    
+                            A dive into C#.                    
                             </p>
                             <br></br>
-                            <a href="https://github.com/joeyfasanelli/HooBank" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                            <a href="https://github.com/joeyfasanelli/Angry-Birds-Dupe" className="text-[#F7AB0A] flex justify-center">GitHub</a>
                         </div>
                 </div>
             </div>
