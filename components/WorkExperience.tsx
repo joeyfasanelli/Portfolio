@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import ExperienceCard from './ExperienceCard'
 import ExperienceCardTwo from './ExperienceCardTwo'
+import ExperienceCardThree from './ExperienceCardThree'
 
 type Props = {}
 
