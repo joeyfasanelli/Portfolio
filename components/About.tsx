@@ -28,7 +28,7 @@ function About({}: Props) {
         <div className="space-y-10 px-0 md:px-10">
             <h4 className="text-4xl font-semibold">Here is a{" "} <span className="underline decoration-[#F7AB0A]/50">little</span>{" "} background about me:</h4>
             <p className="text-sm">
-            I'm Joey, a Full-stack Developer with 2+ years of experience based out of Tampa, FL. I currently work at Bulkitrade, utilizing tools such as Angular, React & Typescript to create user-friendly digital experiences. 
+            I'm Joey, a Full-stack Developer with 2+ years of experience based out of Tampa, FL. I've spent 6+ years in the field of tech sales, but I have always had a passion for computer science. Almost 3 years ago, I decided to take the leap and switch career paths, and it has been quite the exciting journey. I currently work at Bulkitrade, utilizing tools such as Angular, React and Typescript to create user-friendly digital experiences. 
             </p>
         </div>
     </motion.div>
