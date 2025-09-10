@@ -17,24 +17,24 @@ function Projects({}: Props) {
         <div className="relative w-full flex justify-evenly z-20 snap-mandatory snap-x">
             <div className="flex snap-mandatory snap-x">
                 <div className="w-[500px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
-                    <a href="https://your-daily-zen.vercel.app/" target="_blank">
+                    <a href="https://kadostudy.netlify.app/" target="_blank">
                     <img
                     className="rounded-md"
-                    src="https://i.imgur.com/JfzdTok.png"
+                    src="https://imgur.com/a/kado-study-jFWdIhZ"
                     alt=""
                     />
                     </a>
                         <div>
                             <br></br>
                             <h4 className="text-3xl font-semi-bold text-center">
-                                YourDailyZen
+                                日本語 Study
                             </h4>
                             <br></br>
                             <p className="text-lg text-center">
-                            A quote generator for mindfulness and inspiration.                    
+                            A simple flashcard tool for studying Japanese.
                             </p>
                             <br></br>
-                            <a href="https://github.com/joeyfasanelli/YourDailyZen" className="text-[#F7AB0A] flex justify-center">GitHub</a>
+                            <a href="https://github.com/joeyfasanelli/Kado" className="text-[#F7AB0A] flex justify-center">GitHub</a>
                         </div>
                 </div>
 
