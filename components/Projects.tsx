@@ -31,7 +31,7 @@ function Projects({}: Props) {
                             </h4>
                             <br></br>
                             <p className="text-lg text-center">
-                            A simple flashcard tool for studying Japanese.
+                            Learn Japanese on the go.
                             </p>
                             <br></br>
                             <a href="https://github.com/joeyfasanelli/Kado" className="text-[#F7AB0A] flex justify-center">GitHub</a>
