@@ -20,7 +20,7 @@ function Projects({}: Props) {
                     <a href="https://kadostudy.netlify.app/" target="_blank">
                     <img
                     className="rounded-md"
-                    src="https://i.imgur.com/xWITzrT.png"
+                    src="https://i.imgur.com/6F55FxK.png"
                     alt=""
                     />
                     </a>
