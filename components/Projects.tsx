@@ -41,7 +41,7 @@ function Projects({}: Props) {
                 <div className="w-[500px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
                     <a href="https://film-slate.vercel.app/" target="_blank">
                     <img
-                    className="rounded-md"
+                    className="rounded-md h-[175px]"
                     src="https://i.imgur.com/lXhJhiI.jpg"
                     alt=""
                     />
@@ -63,7 +63,7 @@ function Projects({}: Props) {
                 <div className="w-[500px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
                     <a href="https://github.com/joeyfasanelli/Angry-Birds-Dupe" target="_blank">
                     <img
-                    className="rounded-md"
+                    className="rounded-md h-[175px]"
                     src="https://i.imgur.com/ZnmGcWr.jpg"
                     alt=""
                     />
