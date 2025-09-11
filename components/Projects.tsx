@@ -19,7 +19,7 @@ function Projects({}: Props) {
                 <div className="w-[500px] p-20 flex-shrink-0 snap-center flex flex-col items-center justify-center">
                     <a href="https://kadostudy.netlify.app/" target="_blank">
                     <img
-                    className="rounded-md"
+                    className="rounded-md h-[175px]"
                     src="https://i.imgur.com/6F55FxK.png"
                     alt=""
                     />
